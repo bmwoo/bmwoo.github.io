@@ -1,7 +1,7 @@
 <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
 
 <!--## 2017-->
-Woo, B. M., & Mitchell, J. P.. (in press). Simulation: a strategy for mindreading similar but not dissimilar others? *Journal of Experimental Social Psychology*.
+Woo, B. M., & Mitchell, J. P. (in press). Simulation: a strategy for mindreading similar but not dissimilar others? *Journal of Experimental Social Psychology*.
 
 Woo, B. M., & Schaller, M. (in press). “Parental” responses to human infants (and  puppy dogs): Evidence that the perception of eyes is especially  influential, but eye contact is not. *PLoS One*.
 
