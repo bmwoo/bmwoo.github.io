@@ -4,7 +4,8 @@
 <h2>Preprint(s)</h2>
 Woo, B. M., & Spelke, E. S. (2020). Belief-based evaluations of helping in infancy. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/eczgp" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
 
-Woo, B. M., Tan, E., & Hamlin, J. K. (2020). Theory of mind in context: Mental state representations for social evaluation. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/ny5q8" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+<h2>In Press</h2>
+Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Theory of mind in context: Mental state representations for social evaluation. Commentary on Phillips et al.'s "Knowledge before belief". *Behavioral and Brain Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/ny5q8" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 <h2>2017 to 2020</h2>
 <!--## 2017 to 2020-->
