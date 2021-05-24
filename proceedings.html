@@ -1,0 +1,28 @@
+---
+layout: page
+title: Conference Proceedings
+permalink: /proceedings/
+---
+<!-- Slider Start -->
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Conference Proceedings</h1>
+          <p>I've shared electronic versions [<ion-icon name="document"></ion-icon>] of conference proceedings here to support the timely dissemination of academic work for personal, noncommercial purposes.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+</section>
+{% for post in site.posts %}
+<div class="post-area">
+<!--   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+ --><!--   <p class="post-date">{{ post.date | date: "%Y" }}</p> -->
+  <p>
+    {{ post.content }}
+  </p>
+</div>
+{% endfor %}
