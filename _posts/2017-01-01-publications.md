@@ -7,6 +7,8 @@ Woo, B. M., & Spelke, E. S. (under review). Infants’ social evaluations depend
 <h2>In Press</h2>
 Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Theory of mind in context: Mental state representations for social evaluation. Commentary on Phillips et al.'s "Knowledge before belief". *Behavioral and Brain Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/ny5q8" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
+Woo, B. M., & Hamlin, J. K. (in press). Origins of impression formation in infancy. In E. Balcetis and G. B. Moskowitz (Eds.), *Handbook of Impression Formation*.
+
 <h2>2017 to 2020</h2>
 <!--## 2017 to 2020-->
 Woo, B. M., & Mitchell, J. P. (2020). Simulation: a strategy for mindreading similar but not dissimilar others? *Journal of Experimental Social Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woomitchell2020.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/pmkh6/" target="_blank"> OSF </a>]
