@@ -2,7 +2,7 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
-Woo, B. M., & Spelke, E. S. (2020). Infants’ social evaluations depend on the intentions of agents who act on false beliefs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/eczgp" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
+Woo, B. M., & Spelke, E. S. (under review). Infants’ social evaluations depend on the intentions of agents who act on false beliefs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/eczgp" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
 
 <h2>In Press</h2>
 Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Theory of mind in context: Mental state representations for social evaluation. Commentary on Phillips et al.'s "Knowledge before belief". *Behavioral and Brain Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/ny5q8" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
