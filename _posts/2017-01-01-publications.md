@@ -2,26 +2,29 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
-Woo, B. M., & Spelke, E. S. (in preparation). Infants’ social evaluations depend on the intentions of agents who act on false beliefs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/eczgp" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
+Woo, B. M., & Spelke, E. S. (under review). Infants' and toddlers' evaluations of helpers depend on their understanding of action goals. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
 
-Woo, B. M., & Spelke, E. S. (in preparation). Toddlers appreciate what is visible to others but not others' experiences. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
+Woo, B. M., & Spelke, E. S. (in preparation; old preprint available). Infants’ social evaluations depend on the intentions of agents who act on false beliefs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/eczgp" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
+
+Woo, B. M., & Spelke, E. S. (in preparation; old preprint available). Toddlers appreciate what is visible to others but not others' experiences. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
 <h2>In Press</h2>
-Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Theory of mind in context: Mental state representations for social evaluation. Commentary on Phillips et al.'s "Knowledge before belief". *Behavioral and Brain Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/ny5q8" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+Thomas, A. J., Woo, B. M., Nettle, D., Spelke, E. S., & Saxe, R. (in press). Early concepts of intimacy: young humans use saliva sharing to infer close relationships. *Science*.
 
 Woo, B. M., & Hamlin, J. K. (in press). Evidence for an early-emerging moral core. In M. Killen and J. Smetana (Eds.), *Handbook of Moral Development*.
 
 Woo, B. M., & Hamlin, J. K. (in press). Origins of impression formation in infancy. In E. Balcetis and G. B. Moskowitz (Eds.), *Handbook of Impression Formation*.
 
 <h2>2021</h2>
+Woo, B. M., Tan, E., & Hamlin, J. K. (2021). Theory of mind in context: Mental state representations for social evaluation. Commentary on Phillips et al.'s "Knowledge before belief". *Behavioral and Brain Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/ny5q8" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 <p>Woo, B. M., &amp; Spelke, E. S. (2021). Limits to early mental state reasoning: Fourteen- to 15-month-old infants appreciate whether others can see objects, but not others’ experiences of objects. <em>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</em>. [original proceedings <a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/d8c7u" target="_blank"><ion-icon name="document"></ion-icon></a>, recent preprint <a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]</p>
 
 <p>Woo, B. M., Liu, S., &amp; Spelke, E. S. (2021). Open-minded, not naïve: Three-month-old infants encode objects as the goals of other people's reaches. <em>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</em>. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/qjvre" target="_blank"><ion-icon name="document"></ion-icon></a>]</p>
 
 <h2>2017 to 2020</h2>
 <!--## 2017 to 2020-->
-<p>Woo, B. M., &amp; Spelke, E. S. (2020). How to help best: Infants’ changing understanding of multistep action sequences informs their evaluations of helping. <em>Proceedings of the 42nd Annual Meeting of the Cognitive Science Society</em>.
-  </p>
+<p>Woo, B. M., &amp; Spelke, E. S. (2020). How to help best: Infants’ changing understanding of multistep action sequences informs their evaluations of helping. <em>Proceedings of the 42nd Annual Meeting of the Cognitive Science Society</em>. [original proceedings <a style="font-size:15px; color:#4c8ccc" href="https://www.cognitivesciencesociety.org/cogsci20/papers/0071/0071.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>, recent preprint<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+  </p> 
 
 Woo, B. M., & Mitchell, J. P. (2020). Simulation: a strategy for mindreading similar but not dissimilar others? *Journal of Experimental Social Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woomitchell2020.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/pmkh6/" target="_blank"> OSF </a>]
 
