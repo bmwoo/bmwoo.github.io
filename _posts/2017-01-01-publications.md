@@ -2,15 +2,17 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
-Woo, B. M., & Spelke, E. S. (in revision). Infants' and toddlers' evaluations of helpers depend on their understanding of action goals. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
+Woo, B. M., & Spelke, E. S. (revised). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
 
 Woo, B. M., & Spelke, E. S. (in revision). Toddlers' social evaluations of agents who act on false beliefs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/eczgp" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
-
-Woo, B. M., Tan, E., & Hamlin, J. K. (under review). Early-emerging evaluations of morally relevant behavior: Breadth, basis, and connections to later development. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/98d36" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 Woo, B. M., & Spelke, E. S. (in preparation; old preprint available). Toddlers appreciate what is visible to others but not others' experiences. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
 <h2>In Press</h2>
+Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/98d36" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
+Woo, B. M., & Spelke, E. S. (in press). Eight-month-old infants' social evaluations of agents who act on false beliefs. <em>Proceedings of the 44th Annual Meeting of the Cognitive Science Society</em>.
+
 Woo, B. M., & Hamlin, J. K. (in press). Evidence for an early-emerging moral core. In M. Killen and J. Smetana (Eds.), *Handbook of Moral Development*.
 
 Woo, B. M., & Hamlin, J. K. (in press). Origins of impression formation in infancy. In E. Balcetis and G. B. Moskowitz (Eds.), *Handbook of Impression Formation*.
