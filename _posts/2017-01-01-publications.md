@@ -2,7 +2,7 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
-Woo, B. M., & Spelke, E. S. (revised). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
+Woo, B. M., & Spelke, E. S. (accepted pending minor revisions). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
 
 Woo, B. M., Liu, S., & Spelke, E. S. (under review). From abstract intentions to specific goals: Human infants’ understanding of actions they cannot perform. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/dx2er/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank"> OSF </a>]
 
