@@ -11,7 +11,7 @@ Woo, B. M., & Spelke, E. S. (under review).  A limit to early mental state reaso
 
 
 <h2>In Press</h2>
-Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (in press). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*.
+Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (in press). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wootanyuenhamlin2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 Woo, B. M., & Spelke, E. S. (in press). Toddlers' social evaluations of agents who act on false beliefs. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
 
