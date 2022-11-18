@@ -2,8 +2,6 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
-Woo, B. M., & Spelke, E. S. (accepted pending minor revisions). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
-
 Woo, B. M., Liu, S., & Spelke, E. S. (under review). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/dx2er/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank"> OSF </a>]
 
 
@@ -14,6 +12,8 @@ Woo, B. M., & Spelke, E. S. (under review).  A limit to early mental state reaso
 Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (in press). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wootanyuenhamlin2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 Woo, B. M., & Spelke, E. S. (in press). Toddlers' social evaluations of agents who act on false beliefs. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
+
+Woo, B. M., & Spelke, E. S. (in press). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. *Child Development*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
 
 Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/98d36" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
