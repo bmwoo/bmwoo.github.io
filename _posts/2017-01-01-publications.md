@@ -5,7 +5,7 @@
 Woo, B. M., Liu, S., & Spelke, E. S. (under review). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/dx2er/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank"> OSF </a>]
 
 
-Woo, B. M., & Spelke, E. S. (under review).  A limit to early mental state reasoning: Toddlers misinterpret an actor’s actions when they and the actor view the same objects but experience them differently. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
+Woo, B. M., & Spelke, E. S. (in revision).  A limit to early mental state reasoning: Toddlers misinterpret an actor’s actions when they and the actor view the same objects but experience them differently. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
 
 <h2>In Press</h2>
