@@ -7,6 +7,8 @@ Woo, B. M., Liu, S., & Spelke, E. S. (under review). Infants rationally infer th
 
 Woo, B. M., & Spelke, E. S. (in revision).  A limit to early mental state reasoning: Toddlers misinterpret an actor’s actions when they and the actor view the same objects but experience them differently. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
+Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (submitted).  Toddlers evaluate helpers based on recipients’ needs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/pb7mz" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank"> OSF </a>]
+
 
 <h2>In Press</h2>
 Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (in press). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wootanyuenhamlin2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
@@ -15,9 +17,9 @@ Woo, B. M., & Spelke, E. S. (in press). Toddlers' social evaluations of agents w
 
 Woo, B. M., & Spelke, E. S. (in press). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. *Child Development*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
 
-Woo, B. M., Tan, E., & Hamlin, J. K. (in press). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/98d36" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
-
 <h2>2022</h2>
+Woo, B. M., Tan, E., & Hamlin, J. K. (2022). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/98d36" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
 Thomas, A. J., Woo, B. M., Nettle, D., Spelke, E. S., & Saxe, R. (2022). Early concepts of intimacy: young humans use saliva sharing to infer close relationships. *Science*, *375*, 311-315. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/thomasetal2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/a8htx/" target="_blank"> OSF </a>]
 
 Woo, B. M., & Spelke, E. S. (2022). Eight-month-old infants' social evaluations of agents who act on false beliefs. <em>Proceedings of the 44th Annual Meeting of the Cognitive Science Society</em>. [<a style="font-size:15px; color:#4c8ccc" href="https://escholarship.org/content/qt8k02x1mx/qt8k02x1mx.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
