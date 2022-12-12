@@ -18,7 +18,7 @@ Woo, B. M., & Spelke, E. S. (in press). Toddlers' social evaluations of agents w
 Woo, B. M., & Spelke, E. S. (in press). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. *Child Development*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/mtprn" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/g2fzt/" target="_blank"> OSF </a>]
 
 <h2>2022</h2>
-Woo, B. M., Tan, E., & Hamlin, J. K. (2022). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/98d36" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+Woo, B. M., Tan, E., & Hamlin, J. K. (2022). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="http://www.annualreviews.org/eprint/B8AC93IGDFT7H8M9SPJI/full/10.1146/annurev-devpsych-121020-023312" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 Thomas, A. J., Woo, B. M., Nettle, D., Spelke, E. S., & Saxe, R. (2022). Early concepts of intimacy: young humans use saliva sharing to infer close relationships. *Science*, *375*, 311-315. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/thomasetal2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/a8htx/" target="_blank"> OSF </a>]
 
