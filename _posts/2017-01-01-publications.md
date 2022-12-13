@@ -7,7 +7,7 @@ Woo, B. M., Liu, S., & Spelke, E. S. (under review). Infants rationally infer th
 
 Woo, B. M., & Spelke, E. S. (in revision).  A limit to early mental state reasoning: Toddlers misinterpret an actor’s actions when they and the actor view the same objects but experience them differently. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
-Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (submitted).  Toddlers evaluate helpers based on recipients’ needs. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/pb7mz" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank"> OSF </a>]
+Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (submitted).  Toddlers evaluate helpers based on the needs of their beneficiaries. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/pb7mz" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank"> OSF </a>]
 
 
 <h2>In Press</h2>
