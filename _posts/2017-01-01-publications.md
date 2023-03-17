@@ -7,13 +7,11 @@ Woo, B. M., Liu, S., & Spelke, E. S. (in revision). Infants rationally infer the
 
 Woo, B. M., & Spelke, E. S. (in revision).  A limit to early mental state reasoning: Toddlers misinterpret an actor’s actions when they and the actor view the same objects but experience them differently. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
-Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (submitted).  Toddlers evaluate helpers based on the needs of their beneficiaries. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/pb7mz" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank"> OSF </a>]
-
-
-<h2>In Press</h2>
-Woo, B. M., & Spelke, E. S. (in press). Toddlers' social evaluations of agents who act on false beliefs. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
+Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (in prep).  Toddlers evaluate helpers based on the needs of their beneficiaries. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/pb7mz" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank"> OSF </a>]
 
 <h2>2023</h2>
+Woo, B. M., & Spelke, E. S. (2023). Toddlers' social evaluations of agents who act on false beliefs. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank"> OSF </a>]
+
 Woo, B. M., & Spelke, E. S. (2023). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. *Child Development*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2023.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/k7y5c/" target="_blank"> OSF </a>]
 
 Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wootanyuenhamlin2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
