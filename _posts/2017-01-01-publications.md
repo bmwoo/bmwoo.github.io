@@ -5,7 +5,7 @@
 Woo, B. M., Liu, S., & Spelke, E. S. (in revision). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/dx2er/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank"> OSF </a>]
 
 
-Woo, B. M., & Spelke, E. S. (in revision).  A limit to early mental state reasoning: Toddlers misinterpret an actor’s actions when they and the actor view the same objects but experience them differently. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
+Woo, B. M., Chisholm, G. H., & Spelke, E. S. (in revision).  Do toddlers implicitly reason about others’ distinctive perceptual experiences of objects? A limit to early mental state reasoning. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
 
 Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (in prep).  Toddlers evaluate helpers based on the needs of their beneficiaries. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/pb7mz" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank"> OSF </a>]
 
@@ -14,10 +14,10 @@ Woo, B. M., & Spelke, E. S. (2023). Toddlers' social evaluations of agents who a
 
 Woo, B. M., & Spelke, E. S. (2023). Infants and toddlers leverage their understanding of action goals to evaluate agents who help others. *Child Development*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2023.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/k7y5c/" target="_blank"> OSF </a>]
 
-Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wootanyuenhamlin2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
+Woo, B. M., Tan, E., Yuen, F. L., & Hamlin, J. K. (2023). Socially evaluative contexts facilitate mentalizing. *Trends in Cognitive Sciences*, *27*, 17-29. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wootanyuenhamlin2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 <h2>2022</h2>
-Woo, B. M., Tan, E., & Hamlin, J. K. (2022). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*. [<a style="font-size:15px; color:#4c8ccc" href="http://www.annualreviews.org/eprint/B8AC93IGDFT7H8M9SPJI/full/10.1146/annurev-devpsych-121020-023312" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+Woo, B. M., Tan, E., & Hamlin, J. K. (2022). Human morality is based on an early-emergy moral core. *Annual Review of Developmental Psychology*, *4*, 41-61. [<a style="font-size:15px; color:#4c8ccc" href="http://www.annualreviews.org/eprint/B8AC93IGDFT7H8M9SPJI/full/10.1146/annurev-devpsych-121020-023312" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 Thomas, A. J., Woo, B. M., Nettle, D., Spelke, E. S., & Saxe, R. (2022). Early concepts of intimacy: young humans use saliva sharing to infer close relationships. *Science*, *375*, 311-315. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/thomasetal2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/a8htx/" target="_blank"> OSF </a>]
 
