@@ -151,7 +151,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .block img {
   padding-left: 40px;
-  width: 100%;
+  width: 90%;
 }
 #intro .section-title {
   margin-bottom: 0px;
@@ -350,6 +350,25 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #clients-logo-section .clients-logo-img {
   padding: 0px 50px;
+}
+/*--
+  border radius
+--*/
+.myimg {
+  border-radius:50%;
+  padding: 0px !important;
+  margin: auto;
+}
+
+/* Medium devices (990px and lower) */
+@media only screen and (max-width: 990px) {
+  .myimg {
+    border-radius:50%;
+    padding: 0px !important;
+    margin-left: 0px;
+    text-align:center;
+  }
+
 }
 /*---------------------------------------------
 					Work Start
