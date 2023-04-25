@@ -140,6 +140,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro {
   padding: 100px 0; /*initially 100 px*/
 }
+/* Medium devices (990px and lower) */
+@media only screen and (max-width: 990px) {
+  intro {
+    padding: 0px 0;
+  }
+}
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
