@@ -2,7 +2,7 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
-Woo, B. M., Liu, S., & Spelke, E. S. (in revision). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/dx2er/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank"> OSF </a>]
+Woo, B. M., Liu, S., & Spelke, E. S. (revised). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/dx2er/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank"> OSF </a>]
 
 
 Woo, B. M., Chisholm, G. H., & Spelke, E. S. (in revision).  Do toddlers implicitly reason about others’ distinctive perceptual experiences of objects? A limit to early mental state reasoning. [<a style="font-size:15px; color:#4c8ccc" href="https://psyarxiv.com/3gbj6" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank"> OSF </a>]
