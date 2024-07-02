@@ -1,6 +1,9 @@
 <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
 
 <!--## Preprints-->
+<h2>In Press</h2>
+Woo, B. M., Yu, E., & Thomas, A. J. (in press). Children expect people to accurately represent the minds of their close social partners. Proceedings of the 46th Annual Meeting of the Cognitive Science Society. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/cqz26" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
 <h2>2024</h2>
 Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (2024).  Toddlers prefer agents who help those facing harder tasks. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wooliugweonspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank">OSF</a>]
 
