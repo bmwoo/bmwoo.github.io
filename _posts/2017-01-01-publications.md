@@ -1,15 +1,14 @@
 <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
 
 <!--## Preprints-->
-<h2>In Press</h2>
-Woo, B. M., Yu, E., & Thomas, A. J. (in press). Children expect people to accurately represent the minds of their close social partners. Proceedings of the 46th Annual Meeting of the Cognitive Science Society. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/cqz26" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
-
 <h2>2024</h2>
 Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (2024).  Toddlers prefer agents who help those facing harder tasks. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wooliugweonspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank">OSF</a>]
 
 Woo, B. M., Liu, S., & Spelke, E. S. (2024). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wooliuspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank">OSF</a>]
 
 Woo, B. M., Chisholm, G. H., & Spelke, E. S. (2024).  Do toddlers reason about other people’s experiences of objects? A limit to early mental state reasoning. *Cognition*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woochisholmspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank">OSF</a>]
+
+Woo, B. M., Yu, E., & Thomas, A. J. (2024). Children expect people to accurately represent the minds of their close social partners. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/cqz26" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 <h2>2023</h2>
 Woo, B. M., & Spelke, E. S. (2023). Toddlers' social evaluations of agents who act on false beliefs. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woospelke2022.pdf" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/qrvje/" target="_blank">OSF</a>]
