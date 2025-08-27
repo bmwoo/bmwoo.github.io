@@ -1,9 +1,24 @@
 <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
 
 <!--## Preprints-->
-<h2>2024</h2>
-Woo, B. M., Liu, S., Gweon, H., & Spelke, E. S. (2024).  Toddlers prefer agents who help those facing harder tasks. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wooliugweonspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/uqa8f/" target="_blank">OSF</a>]
+<h2>Preprint(s)</h2>
+Woo, B. M., Tsang, A., & Hamlin, J. K. (under review). Eleven-month-old infants preferentially look at helpers but do not reliably incorporate inconsistency into their evaluations. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/6ej7g_v2" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
+<h2>In Press</h2>
+Woo, B. M., Yu, E., Richardson, M., & Thomas, A. J. (in press). Developing intuitions that close friends know the contents of each other's minds. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/fnspu_v4" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/wfmny/" target="_blank">OSF</a>]
+
+Woo, B. M., Laha, A., Chen, A., & Wolf, C. (in press). The study of early social evaluation: Contextualizing failures to replicate and looking forward. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/jr6nh_v1?view_only=" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
+Woo, B. M., & Laha, A. (in press). Social connection and mental state reasoning. Commentary on Thomas’s “Cognitive representations of social relationships and their developmental origins”. *Behavioral and Brain Sciences*.
+
+<h2>2025</h2>
+Woo, B. M., Peng, H., Steele, C., & Thomas, A. J. (2025). Social engagement leads infants to represent people as individuals. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/en52x_v1?" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
+Laha, A., & Woo, B. M. (2025). Young children spontaneously appreciate the perspectives of their social partners. *Proceedings of the Annual Meeting of the Cognitive Science Society*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/85ndq" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
+Pepe, B., Woo, B. M., Thomas, A. J. & Powell, L. J. (2025). Helping and hindering guide infants' expectations about future behavior. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/osf/jgsc4_v1" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
+<h2>2024</h2>
 Woo, B. M., Liu, S., & Spelke, E. S. (2024). Infants rationally infer the goals of other people’s reaches in the absence of first-person experience with reaching actions. *Developmental Science*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/wooliuspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/ervm3/" target="_blank">OSF</a>]
 
 Woo, B. M., Chisholm, G. H., & Spelke, E. S. (2024).  Do toddlers reason about other people’s experiences of objects? A limit to early mental state reasoning. *Cognition*. [<a style="font-size:15px; color:#4c8ccc" href="https://bmwoo.github.io/files/woochisholmspelke2024.pdf" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/6dvc2/" target="_blank">OSF</a>]
