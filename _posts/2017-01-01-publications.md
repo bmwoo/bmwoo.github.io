@@ -2,16 +2,18 @@
 
 <!--## Preprints-->
 <h2>Preprint(s)</h2>
+Laha, A., Chen, A., Gipson, Z., & Woo, B. M. (under review). Young children spontaneously appreciate the perspectives of their social partners. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/k6f9m_v1/" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
 Woo, B. M., Tsang, A., & Hamlin, J. K. (under review). Eleven-month-old infants preferentially look at helpers but do not reliably incorporate inconsistency into their evaluations. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/6ej7g_v2" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 <h2>In Press</h2>
-Woo, B. M., Yu, E., Richardson, M., & Thomas, A. J. (in press). Developing intuitions that close friends know the contents of each other's minds. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/fnspu_v4" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/wfmny/" target="_blank">OSF</a>]
-
-Woo, B. M., Laha, A., Chen, A., & Wolf, C. (in press). The study of early social evaluation: Contextualizing failures to replicate and looking forward. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/jr6nh_v1?view_only=" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
-
 Woo, B. M., & Laha, A. (in press). Social connection and mental state reasoning. Commentary on Thomas’s “Cognitive representations of social relationships and their developmental origins”. *Behavioral and Brain Sciences*.
 
 <h2>2025</h2>
+Woo, B. M., Yu, E., Richardson, M., & Thomas, A. J. (2025). Developing intuitions that close friends know the contents of each other's minds. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/fnspu_v4" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>][<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/wfmny/" target="_blank">OSF</a>]
+
+Woo, B. M., Laha, A., Chen, A., & Wolf, C. (2025). The study of early social evaluation: Contextualizing failures to replicate and looking forward. *Open Mind*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/jr6nh_v1?view_only=" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
+
 Woo, B. M., Peng, H., Steele, C., & Thomas, A. J. (2025). Social engagement leads infants to represent people as individuals. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/preprints/psyarxiv/en52x_v1?" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
 
 Laha, A., & Woo, B. M. (2025). Young children spontaneously appreciate the perspectives of their social partners. *Proceedings of the Annual Meeting of the Cognitive Science Society*. [<a style="font-size:15px; color:#4c8ccc" href="https://osf.io/85ndq" target="_blank" target="_blank"><ion-icon name="document"></ion-icon></a>]
